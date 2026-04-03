@@ -9,11 +9,11 @@ Calculadora com interface gráfica feita em Python com CustomTkinter.
 - Divisão
 - Tratamento de erro para divisão por zero
 
-## Tecnologias
-- Python 3
-- CustomTkinter
-
 ## Como rodar
+### Opção 1 — Executável
+Baixa o arquivo `main.exe` na pasta `dist` e clica duas vezes.
+
+### Opção 2 — Código fonte
 1. Instala as dependências:
 ```
 pip install customtkinter
@@ -22,6 +22,10 @@ pip install customtkinter
 ```
 python main.py
 ```
+
+## Tecnologias
+- Python 3
+- CustomTkinter
 
 ## Autor
 [iluvhenriq](https://github.com/iluvhenriq)
